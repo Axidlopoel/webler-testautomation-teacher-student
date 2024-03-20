@@ -1,2 +1,10 @@
-package hu.webler.value;public class Gender {
+package hu.webler.value;
+
+public enum Gender {
+
+    MALE,
+
+    FEMALE,
+
+    OTHER
 }
